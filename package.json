@@ -1,7 +1,12 @@
 {
   "name": "reactroll",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rickroll utility for ReactJS",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ncub8/reactroll.git"
+  },
+  "homepage": "http://www.maineshaman.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
